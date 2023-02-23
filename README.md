@@ -15,7 +15,8 @@ Assumption:
 <2digit-sequencenumber> is just considered as two digits as the sequence logic is not mentioned.
 
 How to run the program
-Download the file FileNameValidator.java, using command prompt or a terminal go to the location of the file.
+
+Once the files are downloaded and unzipped in your system, using command prompt or a terminal go to the location of the file FileNameValidator.java.
 For Java 8-10 versions:
 Compile the code by running the command "javac FilenameValidator.java".
 Run the program by running the command "java FilenameValidator"
