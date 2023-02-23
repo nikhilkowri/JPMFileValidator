@@ -12,7 +12,8 @@ Test – hardcoded string prefix
 <2digit-sequencenumber> - is 2 digit sequence number
 
 Assumption:
-<2digit-sequencenumber> is just considered as two digits as the sequence logic is not mentioned.
+1. <2digit-sequencenumber> is just considered as two digits as the sequence logic is not mentioned.
+2. Test input - Test_A_07121987.csv. Output- File ‘Test_A_07121987.csv’ passed validation. The problem statement test inputs and outputs doesn't contain _<2digit-sequencenumber> data and validation. The test input in problem statement is invalid as it doesn't match the format Test_<portfoliocode>_<ddmmyyyy>_<2digit-sequencenumber>.csv
 
 How to run the program
 
