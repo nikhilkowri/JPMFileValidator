@@ -26,6 +26,7 @@ Run the program by running the command "java FilenameValidator"
 The program prints the sample output and prompts the user to enter the File Name. Once user types the filename and types enter key upon completion the file name is validated and the validation message is displayed. Every time you run the program you can validate a file name.
 
 ========================Sample Output===================================================================================
+  
 File 'Test_A_07121987_10.csv' passed validation.
 File 'Test_B_07121987_99.csv' passed validation.
 File 'Test_C_07121987_70.csv' passed validation.
